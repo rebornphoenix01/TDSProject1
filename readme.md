@@ -20,21 +20,21 @@ This project analyzes GitHub users located in Bangalore with over 100 followers.
 
 ## Findings
 - **Top 5 Users by Followers**: 
-    - `[List of top 5 users with their logins]`
+    - `krishnaik06,championswimmer,arpitbbhayani,manjunath5496,tanaypratap`
 - **Earliest Registered Users**: 
-    - `[List of 5 earliest registered users]`
+    - `anandology,irfn,jace,abhisek,abhin4v`
 - **Most Popular Licenses**: 
-    - `[List of 3 most popular licenses]`
+    - `mit,apache-2.0,other`
 - **Most Common Programming Language**: 
-    - `[Name of the most popular programming language]`
+    - `JavaScript`
 - **Top Companies**: 
-    - `[Name of the company with the most developers]`
+    - `Google`
 - **Leader Strength Analysis**: 
-    - `[Top 5 users by leader strength]`
+    - `krishnaik06,Hack-with-Github,laxmimerit,tanaypratap,abhishh1`
 - **Correlation Analysis**: 
-    - Followers and public repositories showed a correlation of `[correlation value]`.
+    - Followers and public repositories showed a correlation of `0.191`.
 - **Repository Insights**: 
-    - Users who created more repositories gained approximately `[slope value]` additional followers per repository.
+    - Users who created more repositories gained approximately `2.348` additional followers per repository.
 
 ## Recommendations
 - **For Developers**: 
