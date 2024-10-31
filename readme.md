@@ -1,0 +1,3 @@
+- This project scrapes GitHub user data in Bangalore with over 100 followers and their repositories.
+- The highest number of followers found was X, and the most common company was Y.
+- Developers in Bangalore should consider enabling wiki on popular repositories to engage their followers.
